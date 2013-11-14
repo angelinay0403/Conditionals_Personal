@@ -10,7 +10,7 @@ var calories = 900
 if(calories > 1000){
 	console.log("I will not lose the set goal!")
 }else{
-	//if i eat more calories than
+	//if i eat less calories than
 	console.log("I will lose 3 pounds per week!")
 }
 	
